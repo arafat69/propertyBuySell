@@ -1,1 +1,1 @@
-Property Buye And Sell website design use html css
+Property Buy, Sell And Rent website design use html css
